@@ -51,9 +51,9 @@ public class TC001_GET_All_Employees extends TestBase {
 		long responseTime = response.getTime();
 		logger.info("response Time =========> "+responseTime);
 
-		if(responseTime>2000)
+		if(responseTime>3000)
 			logger.info("Response Time is greater than 2000 ");
-		Assert.assertTrue(responseTime<2000);
+		Assert.assertTrue(responseTime<3000);
 	}
 
 	@Test

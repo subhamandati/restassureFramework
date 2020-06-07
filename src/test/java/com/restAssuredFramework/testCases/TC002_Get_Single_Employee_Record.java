@@ -24,15 +24,17 @@ public class TC002_Get_Single_Employee_Record extends TestBase{
 
 		RestAssured.baseURI = "http://dummy.restapiexample.com/api/v1";
 		httpRequest =RestAssured.given();
-		response= httpRequest.request(Method.GET,"/employee/"+empID);
+		response= httpRequest.request(Method.GET,"/employee/" +empID);
 
-		Thread.sleep(3);
+		Thread.sleep(8000);
 	}
 
 	@Test
 	void checkResponseBody() {
 		String responseBody = response.getBody().asString();
+		System.out.println("responseBody is "+responseBody);
 		assertEquals(responseBody.contains(empID), true);
+		
 	}
 
 	@Test

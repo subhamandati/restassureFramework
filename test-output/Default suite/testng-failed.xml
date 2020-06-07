@@ -3,15 +3,19 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.restAssuredFramework.testCases.TC005_Delete_Employee_Record">
+      <class name="com.restAssuredFramework.testCases.TC002_Get_Single_Employee_Record">
         <methods>
+          <include name="checkStatusCode"/>
           <include name="setup"/>
+          <include name="getEmployeeData"/>
+          <include name="checkStatusLine"/>
           <include name="checkResponseBody"/>
-          <include name="checkContentType"/>
+          <include name="checkContentLength"/>
           <include name="tearDown"/>
-          <include name="createEmployee"/>
+          <include name="checkContentType"/>
+          <include name="checkResponseTime"/>
         </methods>
-      </class> <!-- com.restAssuredFramework.testCases.TC005_Delete_Employee_Record -->
+      </class> <!-- com.restAssuredFramework.testCases.TC002_Get_Single_Employee_Record -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

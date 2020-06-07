@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="EmployeeRestAPISuite">
+<suite name="APISuite">
 <listeners>
 <listener class-name="com.restAssuredFramework.utilities.Listeners"/>
 </listeners>
-  <test thread-count="5" name="Test">
+  <test thread-count="5" name="APITest">
     <classes>
-      <class name="com.restAssuredFramework.testCases.TC001_GET_All_Employees"/>
-      <class name="com.restAssuredFramework.testCases.TC002_Get_Single_Employee_Record"/>
-      <class name="com.restAssuredFramework.testCases.TC003_POST_Employee_Record"/>
       <class name="com.restAssuredFramework.testCases.TC004_PUT_Employee_Record"/>
+      <class name="com.restAssuredFramework.testCases.TC002_Get_Single_Employee_Record"/>
       <class name="com.restAssuredFramework.testCases.TC005_Delete_Employee_Record"/>
+      <class name="com.restAssuredFramework.testCases.TC001_GET_All_Employees"/>
+      <class name="com.restAssuredFramework.testCases.TC003_POST_Employee_Record"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> <!-- APITest -->
+</suite> <!-- APISuite -->

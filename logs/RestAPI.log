@@ -1,0 +1,544 @@
+2020-06-07 20:21:12 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:106 - =====Started checking content Length =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:109 - content Length =========> 595
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:73 - =====Started checking ContentType =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:76 - Content Type =========> application/json;charset=utf-8
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:120 - =====Started checking Cookies =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:29 - =====Started checking Response Body =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:32 - Response Body =========> {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:49 - =====Started checking Response Time =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:52 - response Time =========> 1457
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:84 - =====Started checking Server Type =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:87 - Server Type =========> nginx/1.16.0
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:39 - =====Started checking Status Code =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:42 - Status Code =========> 200
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:62 - =====Started checking Status Line =========
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:65 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 20:21:15 INFO  EmployeesRestAPI:128 - =====Finished TC001_GET_All_Employees =========
+2020-06-07 20:22:15 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 20:22:17 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 20:22:17 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 20:23:10 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 20:23:12 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 20:23:12 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 20:30:05 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 20:30:08 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 20:30:08 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 20:32:53 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 20:32:56 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 20:32:56 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 21:02:18 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 21:02:21 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 21:02:21 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 21:02:36 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:106 - =====Started checking content Length =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:109 - content Length =========> 595
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:73 - =====Started checking ContentType =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:76 - Content Type =========> application/json;charset=utf-8
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:120 - =====Started checking Cookies =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:29 - =====Started checking Response Body =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:32 - Response Body =========> {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:49 - =====Started checking Response Time =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:52 - response Time =========> 1036
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:84 - =====Started checking Server Type =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:87 - Server Type =========> nginx/1.16.0
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:39 - =====Started checking Status Code =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:42 - Status Code =========> 200
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:62 - =====Started checking Status Line =========
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:65 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 21:02:38 INFO  EmployeesRestAPI:128 - =====Finished TC001_GET_All_Employees =========
+2020-06-07 22:35:17 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:96 - =====Started checking content Length =========
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:99 - content Length =========> 75
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:102 - content Length is less than 100
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:74 - =====Started checking ContentType =========
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:77 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:51 - =====Started checking Response Time =========
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:54 - response Time =========> 2192
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:57 - Response Time is greater than 2000 
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:85 - =====Started checking Server Type =========
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:88 - Server Type =========> nginx/1.16.0
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:42 - =====Started checking Status Code =========
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:44 - Status Code =========> 400
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:63 - =====Started checking Status Line =========
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:66 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 22:35:21 INFO  EmployeesRestAPI:109 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 22:38:03 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:55 - response Time =========> 2324
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:58 - Response Time is greater than 2000 
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 22:38:06 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 22:40:32 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:55 - response Time =========> 1991
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 22:40:42 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 22:42:02 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:55 - response Time =========> 2319
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:58 - Response Time is greater than 2000 
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 22:42:12 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 22:43:26 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:55 - response Time =========> 2009
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:58 - Response Time is greater than 2000 
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 22:43:37 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 22:45:29 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:55 - response Time =========> 2375
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:58 - Response Time is greater than 2000 
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 22:45:40 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 22:46:42 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:55 - response Time =========> 1994
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 22:46:53 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 22:47:38 INFO  EmployeesRestAPI:30 - =======started TC003_POST_Employee_Record ===========
+2020-06-07 22:47:46 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 22:47:46 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:47:46 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 22:47:46 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 22:47:46 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 22:47:46 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 22:47:46 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 22:47:46 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 22:47:46 INFO  EmployeesRestAPI:105 - =====Finished TC003_POST_Employee_Record =========
+2020-06-07 22:48:08 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 22:48:15 INFO  EmployeesRestAPI:83 - =====Started checking ContentType =========
+2020-06-07 22:48:15 INFO  EmployeesRestAPI:86 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:48:16 INFO  EmployeesRestAPI:94 - =====Started checking Server Type =========
+2020-06-07 22:48:16 INFO  EmployeesRestAPI:97 - Server Type =========> nginx/1.16.0
+2020-06-07 22:48:16 INFO  EmployeesRestAPI:63 - =====Started checking Status Code =========
+2020-06-07 22:48:16 INFO  EmployeesRestAPI:65 - Status Code =========> 200
+2020-06-07 22:48:16 INFO  EmployeesRestAPI:72 - =====Started checking Status Line =========
+2020-06-07 22:48:16 INFO  EmployeesRestAPI:75 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 22:48:16 INFO  EmployeesRestAPI:104 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 22:48:49 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 22:48:56 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 22:48:56 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:48:56 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 22:48:56 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 22:48:56 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 22:48:56 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 22:48:56 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 22:48:56 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 22:48:56 INFO  EmployeesRestAPI:105 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 22:57:01 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 22:57:10 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 22:57:10 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:57:10 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 22:57:10 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 22:57:10 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 22:57:10 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 22:57:10 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 22:57:10 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 22:57:10 INFO  EmployeesRestAPI:105 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 22:58:24 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 22:58:34 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 22:58:34 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:58:34 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 22:58:34 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 22:58:34 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 22:58:34 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 22:58:34 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 22:58:34 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 22:58:34 INFO  EmployeesRestAPI:105 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 22:59:05 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 22:59:15 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 22:59:15 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:59:15 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 22:59:15 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 22:59:15 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 22:59:15 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 22:59:15 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 22:59:15 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 22:59:15 INFO  EmployeesRestAPI:105 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 22:59:38 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 22:59:48 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 22:59:48 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 22:59:48 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 22:59:48 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 22:59:48 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 22:59:48 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 22:59:48 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 22:59:48 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 22:59:48 INFO  EmployeesRestAPI:105 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 23:00:07 INFO  EmployeesRestAPI:27 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 23:00:16 INFO  EmployeesRestAPI:71 - =====Started checking ContentType =========
+2020-06-07 23:00:16 INFO  EmployeesRestAPI:74 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:00:16 INFO  EmployeesRestAPI:82 - =====Started checking Server Type =========
+2020-06-07 23:00:16 INFO  EmployeesRestAPI:85 - Server Type =========> nginx/1.16.0
+2020-06-07 23:00:16 INFO  EmployeesRestAPI:51 - =====Started checking Status Code =========
+2020-06-07 23:00:16 INFO  EmployeesRestAPI:53 - Status Code =========> 200
+2020-06-07 23:00:16 INFO  EmployeesRestAPI:60 - =====Started checking Status Line =========
+2020-06-07 23:00:16 INFO  EmployeesRestAPI:63 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:00:16 INFO  EmployeesRestAPI:92 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 23:00:55 INFO  EmployeesRestAPI:27 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 23:01:03 INFO  EmployeesRestAPI:72 - =====Started checking ContentType =========
+2020-06-07 23:01:03 INFO  EmployeesRestAPI:75 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:01:03 INFO  EmployeesRestAPI:83 - =====Started checking Server Type =========
+2020-06-07 23:01:03 INFO  EmployeesRestAPI:86 - Server Type =========> nginx/1.16.0
+2020-06-07 23:01:03 INFO  EmployeesRestAPI:52 - =====Started checking Status Code =========
+2020-06-07 23:01:03 INFO  EmployeesRestAPI:54 - Status Code =========> 200
+2020-06-07 23:01:03 INFO  EmployeesRestAPI:61 - =====Started checking Status Line =========
+2020-06-07 23:01:03 INFO  EmployeesRestAPI:64 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:01:03 INFO  EmployeesRestAPI:93 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 23:01:58 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:55 - response Time =========> 2078
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:58 - Response Time is greater than 2000 
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 23:02:09 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 23:02:17 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:55 - response Time =========> 2354
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:58 - Response Time is greater than 2000 
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 23:02:28 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 23:03:47 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:105 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 23:03:57 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:55 - response Time =========> 920
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 23:04:06 INFO  EmployeesRestAPI:27 - =======started TC005_Delete_Employee_Record ===========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:72 - =====Started checking ContentType =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:75 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:83 - =====Started checking Server Type =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:86 - Server Type =========> nginx/1.16.0
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:52 - =====Started checking Status Code =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:54 - Status Code =========> 200
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:61 - =====Started checking Status Line =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:64 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:93 - =====Finished TC005_Delete_Employee_Record =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:106 - =====Started checking content Length =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:109 - content Length =========> 595
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:73 - =====Started checking ContentType =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:76 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:120 - =====Started checking Cookies =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:29 - =====Started checking Response Body =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:32 - Response Body =========> {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:49 - =====Started checking Response Time =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:52 - response Time =========> 84
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:84 - =====Started checking Server Type =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:87 - Server Type =========> nginx/1.16.0
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:39 - =====Started checking Status Code =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:42 - Status Code =========> 200
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:62 - =====Started checking Status Line =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:65 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:128 - =====Finished TC001_GET_All_Employees =========
+2020-06-07 23:04:15 INFO  EmployeesRestAPI:30 - =======started TC003_POST_Employee_Record ===========
+2020-06-07 23:04:21 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 23:04:21 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:04:21 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 23:04:21 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 23:04:21 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 23:04:21 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 23:04:21 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 23:04:21 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:04:21 INFO  EmployeesRestAPI:105 - =====Finished TC003_POST_Employee_Record =========
+2020-06-07 23:05:09 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 23:05:19 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 23:05:19 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:08:03 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 23:08:13 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 23:08:13 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:08:14 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 23:08:14 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 23:08:14 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 23:08:14 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 23:08:14 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 23:08:14 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:08:14 INFO  EmployeesRestAPI:105 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 23:08:14 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:55 - response Time =========> 943
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 23:08:23 INFO  EmployeesRestAPI:27 - =======started TC005_Delete_Employee_Record ===========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:72 - =====Started checking ContentType =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:75 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:83 - =====Started checking Server Type =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:86 - Server Type =========> nginx/1.16.0
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:52 - =====Started checking Status Code =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:54 - Status Code =========> 200
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:61 - =====Started checking Status Line =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:64 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:93 - =====Finished TC005_Delete_Employee_Record =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:106 - =====Started checking content Length =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:109 - content Length =========> 595
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:73 - =====Started checking ContentType =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:76 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:120 - =====Started checking Cookies =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:29 - =====Started checking Response Body =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:32 - Response Body =========> {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:49 - =====Started checking Response Time =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:52 - response Time =========> 93
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:84 - =====Started checking Server Type =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:87 - Server Type =========> nginx/1.16.0
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:39 - =====Started checking Status Code =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:42 - Status Code =========> 200
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:62 - =====Started checking Status Line =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:65 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:128 - =====Finished TC001_GET_All_Employees =========
+2020-06-07 23:08:29 INFO  EmployeesRestAPI:30 - =======started TC003_POST_Employee_Record ===========
+2020-06-07 23:08:35 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 23:08:35 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:08:35 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 23:08:35 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 23:08:35 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 23:08:35 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 23:08:35 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 23:08:35 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:08:35 INFO  EmployeesRestAPI:105 - =====Finished TC003_POST_Employee_Record =========
+2020-06-07 23:09:42 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:105 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 23:09:52 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:55 - response Time =========> 1037
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 23:10:01 INFO  EmployeesRestAPI:27 - =======started TC005_Delete_Employee_Record ===========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:72 - =====Started checking ContentType =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:75 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:83 - =====Started checking Server Type =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:86 - Server Type =========> nginx/1.16.0
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:52 - =====Started checking Status Code =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:54 - Status Code =========> 200
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:61 - =====Started checking Status Line =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:64 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:93 - =====Finished TC005_Delete_Employee_Record =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:106 - =====Started checking content Length =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:109 - content Length =========> 595
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:73 - =====Started checking ContentType =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:76 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:120 - =====Started checking Cookies =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:29 - =====Started checking Response Body =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:32 - Response Body =========> {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:49 - =====Started checking Response Time =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:52 - response Time =========> 113
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:84 - =====Started checking Server Type =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:87 - Server Type =========> nginx/1.16.0
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:39 - =====Started checking Status Code =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:42 - Status Code =========> 200
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:62 - =====Started checking Status Line =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:65 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:128 - =====Finished TC001_GET_All_Employees =========
+2020-06-07 23:10:08 INFO  EmployeesRestAPI:30 - =======started TC003_POST_Employee_Record ===========
+2020-06-07 23:10:14 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 23:10:14 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:10:14 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 23:10:14 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 23:10:14 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 23:10:14 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 23:10:14 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 23:10:14 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:10:14 INFO  EmployeesRestAPI:105 - =====Finished TC003_POST_Employee_Record =========
+2020-06-07 23:18:35 INFO  EmployeesRestAPI:29 - =======started TC004_PUT_Employee_Record ===========
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:105 - =====Finished TC004_PUT_Employee_Record =========
+2020-06-07 23:18:47 INFO  EmployeesRestAPI:23 - ======Started TC002_Get_Single_Employee_Record=======
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:97 - =====Started checking content Length =========
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:100 - content Length =========> 75
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:103 - content Length is less than 100
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:75 - =====Started checking ContentType =========
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:78 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:52 - =====Started checking Response Time =========
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:55 - response Time =========> 1067
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:86 - =====Started checking Server Type =========
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:89 - Server Type =========> nginx/1.16.0
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:43 - =====Started checking Status Code =========
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:45 - Status Code =========> 400
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:64 - =====Started checking Status Line =========
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:67 - Status Line =========> HTTP/1.1 400 Bad Request
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:110 - =====Finished TC002_Get_Single_Employee_Record =========
+2020-06-07 23:18:57 INFO  EmployeesRestAPI:27 - =======started TC005_Delete_Employee_Record ===========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:72 - =====Started checking ContentType =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:75 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:83 - =====Started checking Server Type =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:86 - Server Type =========> nginx/1.16.0
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:52 - =====Started checking Status Code =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:54 - Status Code =========> 200
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:61 - =====Started checking Status Line =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:64 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:93 - =====Finished TC005_Delete_Employee_Record =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:18 - =====Started TC001_GET_All_Employees =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:95 - =====Started checking content Encoding =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:98 - content Encoding =========> gzip
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:106 - =====Started checking content Length =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:109 - content Length =========> 595
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:73 - =====Started checking ContentType =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:76 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:120 - =====Started checking Cookies =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:29 - =====Started checking Response Body =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:32 - Response Body =========> {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:49 - =====Started checking Response Time =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:52 - response Time =========> 112
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:84 - =====Started checking Server Type =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:87 - Server Type =========> nginx/1.16.0
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:39 - =====Started checking Status Code =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:42 - Status Code =========> 200
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:62 - =====Started checking Status Line =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:65 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:128 - =====Finished TC001_GET_All_Employees =========
+2020-06-07 23:19:04 INFO  EmployeesRestAPI:30 - =======started TC003_POST_Employee_Record ===========
+2020-06-07 23:19:11 INFO  EmployeesRestAPI:84 - =====Started checking ContentType =========
+2020-06-07 23:19:11 INFO  EmployeesRestAPI:87 - Content Type =========> application/json;charset=utf-8
+2020-06-07 23:19:11 INFO  EmployeesRestAPI:95 - =====Started checking Server Type =========
+2020-06-07 23:19:11 INFO  EmployeesRestAPI:98 - Server Type =========> nginx/1.16.0
+2020-06-07 23:19:11 INFO  EmployeesRestAPI:64 - =====Started checking Status Code =========
+2020-06-07 23:19:11 INFO  EmployeesRestAPI:66 - Status Code =========> 200
+2020-06-07 23:19:11 INFO  EmployeesRestAPI:73 - =====Started checking Status Line =========
+2020-06-07 23:19:11 INFO  EmployeesRestAPI:76 - Status Line =========> HTTP/1.1 200 OK
+2020-06-07 23:19:11 INFO  EmployeesRestAPI:105 - =====Finished TC003_POST_Employee_Record =========
