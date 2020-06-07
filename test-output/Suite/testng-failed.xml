@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.restAssuredFramework.testCases.TC002_Get_Single_Employee_Record">
+        <methods>
+          <include name="checkStatusCode"/>
+          <include name="setup"/>
+          <include name="getEmployeeData"/>
+          <include name="checkStatusLine"/>
+          <include name="checkResponseBody"/>
+          <include name="checkContentLength"/>
+          <include name="tearDown"/>
+          <include name="checkContentType"/>
+        </methods>
+      </class> <!-- com.restAssuredFramework.testCases.TC002_Get_Single_Employee_Record -->
+      <class name="com.restAssuredFramework.testCases.TC004_PUT_Employee_Record">
+        <methods>
+          <include name="setup"/>
+          <include name="createEmployee"/>
+          <include name="tearDown"/>
+          <include name="checkContentType"/>
+          <include name="checkResponseBody"/>
+        </methods>
+      </class> <!-- com.restAssuredFramework.testCases.TC004_PUT_Employee_Record -->
+      <class name="com.restAssuredFramework.testCases.TC005_Delete_Employee_Record">
+        <methods>
+          <include name="setup"/>
+          <include name="checkResponseBody"/>
+          <include name="tearDown"/>
+          <include name="createEmployee"/>
+        </methods>
+      </class> <!-- com.restAssuredFramework.testCases.TC005_Delete_Employee_Record -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
